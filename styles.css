@@ -1,0 +1,22 @@
+ul {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    font-size: 32px;
+}
+img {
+    height: auto;
+    width: 200;
+}
+ol {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    font-size: 32px;
+}
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    font-size: 32px;
+}
