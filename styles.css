@@ -1,20 +1,46 @@
 ul {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(204, 73, 73);
 }
+
 img {
     height: auto;
     width: 200;
 }
+
 ol {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
+
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
+
 h1,
 h2 {
     text-align: center;
+}
+
+.Title {
+    background-color: wheat;
+    padding: 2px;
+    margin: 20px;
+    border: 2px solid burlywood;
+    color: rgb(204, 73, 73);
+}
+
+.styled-list {
+    background-color: wheat;
+    margin: 20px;
+    padding: 8px 16px;
+    border: 2px solid burlywood;
+}
+
+.styled-item {
+    background-color: burlywood;
+    margin: 10px;
+    padding: 8px;
 }
